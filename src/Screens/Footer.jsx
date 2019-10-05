@@ -42,38 +42,38 @@ class Footer extends Component {
               <div className="col-lg-6 col-md-4 col-sm-4 col-4 main-footer-links">
                 <div className="row footer-links mt-5 pt-3">
                   <div className="col-sm-5">
-                    <a href="">About us</a>
-                    <a href="">Careers</a>
-                    <a href="">Privacy Policy</a>
-                    <a href="">Press</a>
+                    <a href="#">About us</a>
+                    <a href="#">Careers</a>
+                    <a href="#">Privacy Policy</a>
+                    <a href="#">Press</a>
                   </div>
                   <div className="col-sm-4">
-                    <a href="">Write for us</a>
-                    <a href="">Write a review</a>
-                    <a href="">Sitemap</a>
+                    <a href="#">Write for us</a>
+                    <a href="#">Write a review</a>
+                    <a href="#">Sitemap</a>
                   </div>
                   <div className="col-sm-2"></div>
                 </div>
                 <div className="social-links mt-5 pb-5">
-                  <a href="" target="_blank">
+                  <a href="#" target="_blank">
                     <i className="fab fa-facebook-f"></i>
                   </a>
-                  <a href="" target="_blank">
+                  <a href="#" target="_blank">
                     <i className="fab fa-instagram"></i>
                   </a>
-                  <a href="" target="_blank">
+                  <a href="#" target="_blank">
                     <i className="fab fa-twitter"></i>
                   </a>
-                  <a href="" target="_blank">
+                  <a href="#" target="_blank">
                     <i className="fab fa-youtube"></i>
                   </a>
-                  <a href="" target="_blank">
+                  <a href="#" target="_blank">
                     <i className="fab fa-pinterest"></i>
                   </a>
-                  <a href="" target="_blank">
+                  <a href="#" target="_blank">
                     <i className="fab fa-linkedin"></i>
                   </a>
-                  <a href="" target="_blank">
+                  <a href="#" target="_blank">
                     <i className="fab fa-medium"></i>
                   </a>
                 </div>
@@ -87,25 +87,25 @@ class Footer extends Component {
               <div className="col-lg-1"></div>
             </div>
             <div className="social-links1 mt-5 text-center">
-              <a href="" target="_blank">
+              <a href="#" target="_blank">
                 <i className="fab fa-facebook-f"></i>
               </a>
-              <a href="" target="_blank">
+              <a href="#" target="_blank">
                 <i className="fab fa-instagram"></i>
               </a>
-              <a href="" target="_blank">
+              <a href="#" target="_blank">
                 <i className="fab fa-twitter"></i>
               </a>
-              <a href="" target="_blank">
+              <a href="#" target="_blank">
                 <i className="fab fa-youtube"></i>
               </a>
-              <a href="" target="_blank">
+              <a href="#" target="_blank">
                 <i className="fab fa-pinterest"></i>
               </a>
-              <a href="" target="_blank">
+              <a href="#" target="_blank">
                 <i className="fab fa-linkedin"></i>
               </a>
-              <a href="" target="_blank">
+              <a href="#" target="_blank">
                 <i className="fab fa-medium"></i>
               </a>
             </div>
